@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Tu02mBV16hK8DIL+MqxbMSr+SedVVsw9nxCk71tMt6DZyQJBIHRdgPCaYkNeyAgZCs79h6lsAC140PenB9iCQ==",
+  "success": true,
+  "projectFilePath": "E:\\Kjw2023\\Whatsapp协议\\WhatsAppNETAPINodeJs2\\WhatsAppNETClient2-master\\WhatsAppNETClient2-master\\src\\WhatsAppNETAPI\\WhatsAppNETAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\owin\\1.0.0\\owin.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

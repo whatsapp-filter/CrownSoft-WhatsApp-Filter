@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Owin/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Owin.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Owin.dll": {}
+        }
+      },
+      "JamesWright.SimpleHttp/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.2",
+        "compile": {
+          "bin/placeholder/JamesWright.SimpleHttp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/JamesWright.SimpleHttp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Owin/1.0.0": {
+      "sha512": "OseTFniKmyp76mEzOBwIKGBRS5eMoYNkMKaMXOpxx9jv88+b6mh1rSaw43vjBOItNhaLFG3d0a20PfHyibH5sw==",
+      "type": "package",
+      "path": "owin/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Owin.dll",
+        "owin.1.0.0.nupkg.sha512",
+        "owin.nuspec"
+      ]
+    },
+    "JamesWright.SimpleHttp/1.0.0": {
+      "type": "project",
+      "path": "../JamesWright.SimpleHttp/JamesWright.SimpleHttp.csproj",
+      "msbuildProject": "../JamesWright.SimpleHttp/JamesWright.SimpleHttp.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "JamesWright.SimpleHttp >= 1.0.0",
+      "Owin >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Kjw2023\\Whatsapp协议\\WhatsAppNETAPINodeJs2\\WhatsAppNETClient2-master\\WhatsAppNETClient2-master\\src\\WhatsAppNETAPI\\WhatsAppNETAPI.csproj",
+      "projectName": "WhatsAppNETAPI",
+      "projectPath": "E:\\Kjw2023\\Whatsapp协议\\WhatsAppNETAPINodeJs2\\WhatsAppNETClient2-master\\WhatsAppNETClient2-master\\src\\WhatsAppNETAPI\\WhatsAppNETAPI.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\Kjw2023\\Whatsapp协议\\WhatsAppNETAPINodeJs2\\WhatsAppNETClient2-master\\WhatsAppNETClient2-master\\src\\WhatsAppNETAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "E:\\Kjw2023\\Whatsapp协议\\WhatsAppNETAPINodeJs2\\WhatsAppNETClient2-master\\WhatsAppNETClient2-master\\src\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "projectReferences": {
+            "E:\\Kjw2023\\Whatsapp协议\\WhatsAppNETAPINodeJs2\\WhatsAppNETClient2-master\\WhatsAppNETClient2-master\\src\\JamesWright.SimpleHttp\\JamesWright.SimpleHttp.csproj": {
+              "projectPath": "E:\\Kjw2023\\Whatsapp协议\\WhatsAppNETAPINodeJs2\\WhatsAppNETClient2-master\\WhatsAppNETClient2-master\\src\\JamesWright.SimpleHttp\\JamesWright.SimpleHttp.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "targetAlias": "net452",
+        "dependencies": {
+          "Owin": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.300-preview.23179.2\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
