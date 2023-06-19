@@ -1,10 +1,10 @@
-#You can directly download our release version for use!
+You can access the website product page and download our software using the provided download link.
 -----------------------------------------
 WhatsApp Filter | WhatsApp Nmuber Filter | WhatsApp Contact Filter | WhatsApp Active Filter | whatsapp Gender Filter | WhatsApp Age Filter | Bulk WhatsApp Number Filter | 
 --------------------------------
 CrownSoft WhatsApp Filters can help you quickly filter more than 100,000 numbers per hour!
 ------------------------------
-DOWNLOAD: https://www.crownsoft007.com/html/whatsapp.html
+Product page: https://www.crownsoft007.com/html/whatsapp.html
 ------------------
 telegram: https://t.me/Crown_Evans
 ------------------------------------
